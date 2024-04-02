@@ -1,11 +1,11 @@
 const handler = async (m, {conn, usedPrefix}) => {
   const doc = ['pdf', 'zip', 'vnd.openxmlformats-officedocument.presentationml.presentation', 'vnd.openxmlformats-officedocument.spreadsheetml.sheet', 'vnd.openxmlformats-officedocument.wordprocessingml.document'];
   const document = doc[Math.floor(Math.random() * doc.length)];
-  const text = `*—◉ 𝙴𝙻 𝙽𝚄𝙼𝙴𝚁𝙾 𝙳𝙴 𝙼𝙸 𝙲𝚁𝙴𝙰𝙳𝙾𝚁 𝙴𝚂 wa.me/527299350963*`.trim();
+  const text = `*—◉ 𝙴𝙻 𝙽𝚄𝙼𝙴𝚁𝙾 𝙳𝙴 𝙼𝙸 𝙲𝚁𝙴𝙰𝙳𝙾𝚁 𝙴𝚂 wa.me/525648184923*`.trim();
   const buttonMessage= {
     'document': {url: `https://github.com/Danielbot01/monovan-bot-.git`},
     'mimetype': ` `,
-    'fileName': `「  Concede Monovan-Bot  」`,
+    'fileName': `「  Concede Tazmania-Bot  」`,
     'fileLength': 99999999999999,
     'pageCount': 200,
     'contextInfo': {
@@ -18,7 +18,7 @@ const handler = async (m, {conn, usedPrefix}) => {
         'title': 'ᴇʟ ᴍᴇᴊᴏʀ ʙᴏᴛ ᴅᴇ ᴡʜᴀᴛsᴀᴘᴘ⁩',
         'body': wm,
         'thumbnail': imagen1,
-        'sourceUrl': 'wa.me/527299350963'}},
+        'sourceUrl': 'wa.me/525648184923'}},
     'caption': text,
     'footer': wm,
     // 'buttons':[
